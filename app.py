@@ -31,7 +31,7 @@ client1.on_message = on_message
 st.title("INTERFACES MULTIMODALES")
 st.subheader("CONTROL POR VOZ")
 
-image = Image.open('voice_ctrl.jpg')
+image = Image.open('Sistemas-de-seguridad-domotica-para-tu-hogar-2-1100x825.jpg')
 
 st.image(image, width=200)
 
