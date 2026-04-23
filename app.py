@@ -28,7 +28,7 @@ client1.on_message = on_message
 
 
 
-st.title("INTERFACES MULTIMODALES")
+st.title("Sistema domòtica")
 st.subheader("CONTROL POR VOZ")
 
 image = Image.open('Sistemas-de-seguridad-domotica-para-tu-hogar-2-1100x825.jpg')
